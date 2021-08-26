@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **virtual wallet pending**
 
-- 👨‍💻 All of my projects are available at [pending](pending)
+<!-- - 👨‍💻 All of my projects are available at [pending](pending) -->
 
 - 💬 Ask me about **JavaScript React Redux**
 
