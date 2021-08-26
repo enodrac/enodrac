@@ -62,3 +62,6 @@ The Dog App
 <p>
   <a href ="https://web-dogs-enodrac.vercel.app/">link to the app</a>
 </p>
+<img width="500px" height="300px" src="https://cdn.discordapp.com/attachments/869254384566022157/880585733985939486/unknown.png">
+<img width="500px" height="300px" src="https://cdn.discordapp.com/attachments/869254384566022157/880585737756606464/unknown.png">
+
