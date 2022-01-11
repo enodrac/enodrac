@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Cardone</h1>
 <h3 align="center">a full stack developer and technology enthusiast</h3>
 
-- 🔭 I’m currently working on **virtual wallet pending**
+- 🔭 I’m currently working for **KuepaEduTech**
 
 <!-- - 👨‍💻 All of my projects are available at [pending](pending) -->
 
