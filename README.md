@@ -1,71 +1,123 @@
-<h1 align="center">Hi 👋, I'm Nicolas Cardone</h1>
-<h3 align="center">a full stack developer and technology enthusiast</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+  Hi there! I'm Nicolas Cardone
+</h1>
 
-- 🔭 I’m currently working for **KuepaEduTech**
-
-<!-- - 👨‍💻 All of my projects are available at [pending](pending) -->
-
-- 💬 Ask me about **JavaScript React Redux**
-
-- 📫 How to reach me **NicolasCardone97@gmail.com**
-
-- 📄 Know about my experiences [https://www.soyhenry.com/webfullstack/](https://www.soyhenry.com/webfullstack/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nicolas cardone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas cardone" height="30" width="40" /></a>
+<p align="center">
+  <strong>Full Stack Developer | Node.js | React | TypeScript</strong>
+  <br />
+  A developer with over 4 years of experience, passionate about solving new problems and finding creative ways to build things.
 </p>
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-white?style=flat-square&logo=Redux&logoColor=9c23d2)
-![React Native](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=TypeScript)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+---
 
-#### Backend
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-%23E44D27?style=flat-square&logo=Express)
-![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nestjs&logoColor=f2003c)
-![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb)
-![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=Sequelize)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+### About Me
 
-#### Others
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+- 🔭 I’m currently a **Full Stack Developer at Kuepa**, where I build and maintain a wide range of web applications, from VoIP call centers using **Asterisk** to **AI-powered** educational tools.
 
+- 💡 I thrive on variety and new challenges. I'm at my best when I have to learn a new tool or figure out a unique approach to get the job done.
 
-  
-## 🔗 Links
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-zeta-green.vercel.app/) -->
+- 📫 You can reach me at **NicolasCardone97@gmail.com**.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-cardone/)
+---
 
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=enodrac)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 My Tech Stack
 
-&nbsp;
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+     <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48" alt="Socket.io" />
+      </a>
+      <br>Socket.IO
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://www.vectorlogo.zone/logos/asterisk/asterisk-icon.svg" width="48" height="48" alt="Asterisk" />
+      </a>
+      <br>Asterisk
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+  </tr>
+</table>
 
-## :pushpin: Mis proyectos
-The Dog App
- 
-<p>
- <a href ="https://github.com/enodrac/PI-Dogs-FT14a"></a>
+---
+
+### 📈 My GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enodrac&show_icons=true&theme=dracula" alt="Nicolas Cardone's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enodrac&theme=dracula" alt="Nicolas Cardone's GitHub Streak" />
 </p>
-<p>
-  <a href ="https://web-dogs-enodrac.vercel.app/">link to the app</a>
-</p>
-<p>
- <a href ="https://github.com/enodrac/PI-Dogs-FT14a"<code><img width="500px" height="300px" src="https://cdn.discordapp.com/attachments/869254384566022157/880585733985939486/unknown.png"</code></a>
-</p>
-<p>
- <a href ="https://github.com/enodrac/PI-Dogs-FT14a"<code><img width="500px" height="300px" src="https://cdn.discordapp.com/attachments/869254384566022157/880585737756606464/unknown.png"</code></a>
-</p>
 
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolas-cardone/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+</p>
